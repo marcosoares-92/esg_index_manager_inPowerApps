@@ -1,0 +1,24 @@
+- Access office.com
+- Access OneDrive from office.com
+	In "Quick access" \ "Acesso rápido": click on "Create Shared Library" \ "Criar biblioteca compartilhada"
+- Define a name for the shared library;
+- Click on Create;
+
+Go to the new group
+- Upload the folder;
+- On the top of the group page (top-right), click on "Go to the page" \ "Ir para o site".
+
+Now you are in SharePoint. Click on "New" \ "Novo"
+- "List" \ "Lista"
+
+IMPORTANT: For an Excel file to be visible, you must have saved it as a xlsx file (xlsm cannot be directly converted onto a list);
+- Moreover, region that will be converted into a list must have been formated as a table.
+
+For that, on the original Excel file, select the region that will be converted into a list;
+In the ribbon, go to Home - and click on "Format as Table". 
+- Also, include the headers onto the table, so that their lines will be automatically recognized as headers.
+- Click on the desired layout (necessary step);
+- Check the box "My table has headers" to inform that the first line of the selected region contains the headers;
+
+Finally, in the ribbon, click on "Table Design", and in the far left of this sub-menu, use the check box below "Table Name" to define a name for your table.
+- In SharePoint and in the Power Platform, the table will be listed with this selected name. Then, create a table name that will be easily identify and differentiate it from other regions. 
